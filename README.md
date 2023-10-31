@@ -2,9 +2,12 @@
 Data visualization for the demo paper JayBot~-- Aiding University Students and Admission with an LLM-based Chatbot
 
 
-1 Evaluation by users
+Evaluation by users
+
 During the testing stage, participants were given a questionnaire and asked to evaluate the chatbot application. The chatbot was evaluated on its knowledge, speed, latency, comprehension (context understanding), accuracy, engagement, ease of use, and user satisfaction. 50 evaluators participated in the evaluation. The results of the evaluation are shown below. 
+
 Likert 5-point scale evaluation system
+
 •	On a scale of 1-5, How knowledgeable is the chatbot in answering queries regarding the MSc Data Science and MSc Artificial Intelligence course programmes.
 
 ![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/312b24a5-789a-4c84-b34c-a4f15f7260c5)
