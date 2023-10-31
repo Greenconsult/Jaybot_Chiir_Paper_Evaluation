@@ -8,30 +8,30 @@ During the testing stage, participants were given a questionnaire and asked to e
 
 Likert 5-point scale evaluation system
 
-•	On a scale of 1-5, How knowledgeable is the chatbot in answering queries regarding the MSc Data Science and MSc Artificial Intelligence course programmes.
+1.How quickly did the chatbot respond to your queries?
 
-![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/312b24a5-789a-4c84-b34c-a4f15f7260c5)
-
+![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/071f7352-8d4e-4296-b2bf-4022f8d61dd7)
  
-Figure 1.1: Users evaluation of the chatbot knowledge
+Figure 1.1: Users evaluation of the chatbot speed
 
-Figure 1.1 provides an evaluation of the knowledge base of the chatbot application. 87.5% of users find the chatbot to be knowledgeable while 10% find it quite knowledgeable.
+Figure 1.1 provides evaluation on the speed of the chatbot (in seconds) in providing response to users. 95% of users received responses from the chatbot in less than 5 seconds.
 
 2.On a scale of 1-5, how accurate were the chatbot responses to your queries?
  
  ![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/2699165b-d038-4b27-91c0-f1390ce2058c)
 
-Figure 2.1: Users evaluation of the chatbot accuracy
+Figure 1.2: Users evaluation of the chatbot accuracy
 
-Figure 2.1 provides an evaluation on the quality of information (responses) provided by the chatbot to users. 91.6% of users find the chatbots responses to be completely accurate.
+Figure 1.2 provides an evaluation on the quality of information (responses) provided by the chatbot to users. 91.6% of users find the chatbots responses to be completely accurate.
 
-3.How quickly did the chatbot respond to your queries?
 
-![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/071f7352-8d4e-4296-b2bf-4022f8d61dd7)
- 
-Figure 3.1: Users evaluation of the chatbot speed
+3. On a scale of 1-5, How knowledgeable is the chatbot in answering queries regarding the MSc Data Science and MSc Artificial Intelligence course programmes.
 
-Figure 3.1 provides evaluation on the speed of the chatbot (in seconds) in providing response to users. 95% of users received responses from the chatbot in less than 5 seconds.
+![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/312b24a5-789a-4c84-b34c-a4f15f7260c5)
+
+Figure 3.1: Users evaluation of the chatbot knowledge
+
+Figure 3.1 provides an evaluation of the knowledge base of the chatbot application. 87.5% of users find the chatbot to be knowledgeable while 10% find it quite knowledgeable.
 
 4.On a scale of 1-5, how easy was it to use the chatbot?
 
