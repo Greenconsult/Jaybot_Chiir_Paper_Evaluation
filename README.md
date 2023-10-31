@@ -33,7 +33,7 @@ Figure 3.1: Users evaluation of the chatbot knowledge
 
 Figure 3.1 provides an evaluation of the knowledge base of the chatbot application. 87.5% of users find the chatbot to be knowledgeable while 10% find it quite knowledgeable.
 
-4.On a scale of 1-5, how easy was it to use the chatbot?
+4. On a scale of 1-5, how easy was it to use the chatbot?
 
 ![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/63160212-2ac9-4ae1-879f-d3a1e7acc67f)
  
@@ -48,21 +48,3 @@ Figure 4.1 provides an evaluation on the ease of use of the chatbot application,
 Figure 5.1: Users evaluation of their satisfaction and experience with the chatbot 
 
 Figure 5.1 provides an evaluation of users’ satisfaction with the chatbot application. 96.2% of users were satisfied with their experience with the chatbot. 
-
-6.How likely are you to recommend this chatbot?
-
-![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/e28749aa-c7cd-4e97-a720-2e2022c16b6a)
-
-Figure 6.1: Users recommendation of the chatbot 
-
-Figure 6.1 shows how likely it is for users to recommend the chatbot. 92.5% are likely to recommend the chatbot to others.
-
-7.Are there any feature(s) or functionality you wish the chatbot had?
-
-![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/9a1dcb20-3b00-4ce3-a099-2ab94a02118b)
-
- 
-Figure 7.1: Users evaluation of chatbot functionality
-
-85% of users were satisfied with the features of the chatbot while 15% wished the chatbot could answer queries of other MSc courses in the university apart from data science and AI.
-
