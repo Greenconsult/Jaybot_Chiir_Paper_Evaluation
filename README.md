@@ -39,3 +39,5 @@ Figure 3.1 provides an evaluation on the ease of use of the chatbot application,
 Figure 4.1: Users evaluation of their satisfaction and experience with the chatbot 
 
 Figure 4.1 provides an evaluation of users’ satisfaction with the chatbot application. 96% of users were satisfied with their experience with the chatbot. 
+
+Spreadsheet data for the chatbot evaluation can be found [here] (https://docs.google.com/spreadsheets/d/1axDssCfK6026OEhd5nSF9lT6EHn917wI/edit?usp=sharing&ouid=111156514980420706408&rtpof=true&sd=true)
