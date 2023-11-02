@@ -16,7 +16,7 @@ Figure 1.1: Users evaluation of the chatbot speed
 
 Figure 1.1 provides evaluation on the speed of the chatbot (in seconds) in providing response to users. 96% of users received responses from the chatbot in less than 5 seconds.
 
-2.On a scale of 1-5, how accurate were the chatbot responses to your queries?
+2. On a scale of 1-5, how accurate were the chatbot responses to your queries?
  
 ![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/e284e32f-3fc7-4353-97ad-1b7dc7b15404)
 
@@ -32,7 +32,7 @@ Figure 3.1: Users evaluation of the ease of use of the chatbot
 
 Figure 3.1 provides an evaluation on the ease of use of the chatbot application, it shows that 85% of users find the chatbot application very easy to use.
 
-4.On a scale of 1-5, how satisfied were you with your experience with the chatbot?
+4. On a scale of 1-5, how satisfied were you with your experience with the chatbot?
 
 ![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/867d1564-22fa-48a7-8c10-bedd3aa24adc)
  
