@@ -4,7 +4,7 @@ Data visualization for the demo paper JayBot~-- Aiding University Students and A
 
 Evaluation by users
 
-During the testing stage, participants were given a questionnaire and asked to evaluate the chatbot application. The chatbot was evaluated on its knowledge, speed, latency, comprehension (context understanding), accuracy, engagement, ease of use, and user satisfaction. 50 evaluators participated in the evaluation. The results of the evaluation are shown below. 
+During the testing stage, participants were given a questionnaire and asked to evaluate the chatbot application. The chatbot was evaluated on its speed, accuracy, ease of use, and user satisfaction. 50 evaluators participated in the evaluation. The results of the evaluation are shown below. 
 
 Likert 5-point scale evaluation system
 
