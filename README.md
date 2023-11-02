@@ -20,9 +20,9 @@ Figure 1.1 provides evaluation on the speed of the chatbot (in seconds) in provi
  
 ![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/e284e32f-3fc7-4353-97ad-1b7dc7b15404)
 
-Figure 1.2: Users evaluation of the chatbot accuracy
+Figure 2.1: Users evaluation of the chatbot accuracy
 
-Figure 1.2 provides an evaluation on the quality of information (responses) provided by the chatbot to users. 92% of users find the chatbots responses to be completely accurate.
+Figure 2.1 provides an evaluation on the quality of information (responses) provided by the chatbot to users. 92% of users find the chatbots responses to be completely accurate.
 
 3. On a scale of 1-5, how easy was it to use the chatbot?
 
