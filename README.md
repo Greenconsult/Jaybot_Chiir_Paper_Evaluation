@@ -10,7 +10,7 @@ Likert 5-point scale evaluation system
 
 1.How quickly did the chatbot respond to your queries?
 
-![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/071f7352-8d4e-4296-b2bf-4022f8d61dd7)
+![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/a65ecb2b-3231-485d-8801-e47a3580066f)
  
 Figure 1.1: Users evaluation of the chatbot speed
 
