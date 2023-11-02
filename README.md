@@ -24,7 +24,7 @@ Figure 1.2: Users evaluation of the chatbot accuracy
 
 Figure 1.2 provides an evaluation on the quality of information (responses) provided by the chatbot to users. 91.6% of users find the chatbots responses to be completely accurate.
 
-3. On a scale of 1-5, how easy was it to use the chatbot?
+4. On a scale of 1-5, how easy was it to use the chatbot?
 
 ![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/63160212-2ac9-4ae1-879f-d3a1e7acc67f)
  
@@ -34,7 +34,7 @@ Figure 4.1 provides an evaluation on the ease of use of the chatbot application,
 
 4.On a scale of 1-5, how satisfied were you with your experience with the chatbot?
 
-![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/11e5f0b5-2da6-4e9e-8015-e3de39f9576a)
+![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/867d1564-22fa-48a7-8c10-bedd3aa24adc)
  
 Figure 5.1: Users evaluation of their satisfaction and experience with the chatbot 
 
