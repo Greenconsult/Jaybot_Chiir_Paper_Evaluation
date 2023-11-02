@@ -18,7 +18,7 @@ Figure 1.1 provides evaluation on the speed of the chatbot (in seconds) in provi
 
 2.On a scale of 1-5, how accurate were the chatbot responses to your queries?
  
-![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/8ec369d1-81f7-466b-aefe-795f47ef9275)
+![image](https://github.com/Greenconsult/Jaybot_Chiir_Paper_Evaluation/assets/130986642/e284e32f-3fc7-4353-97ad-1b7dc7b15404)
 
 Figure 1.2: Users evaluation of the chatbot accuracy
 
